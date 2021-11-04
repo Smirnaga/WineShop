@@ -32,7 +32,7 @@
 
 .sector1 {
     background: url('./image/bgc.png') ;
-    height: 900px;
+    height: 785px;
     background-size: 100%; /* Resize the background image to cover the entire container */
 }
 
@@ -95,7 +95,7 @@
     align-items: center;
     padding: 15px 30px;
     height: 50px;
-    margin-top: 583px;
+    margin-top: 493px;
 
     background: #99862A;
 }
@@ -332,14 +332,14 @@ h1 {
 
 .grape {
     position: absolute;
-    left: 375px;
-    top: 2854px;
+    left: 227px;
+    top: 2710px;
 }
 
 .barrel {
     position: absolute;
-    left: 1308px;
-    top: 2858px;
+    left: 1196px;
+    top: 2697px;
 }
 
 .sector4 span {
@@ -495,21 +495,21 @@ footer a {
 
 @media (max-width: 1600px) {
     .sector1 {
-        height: 700px;
+        height: 626px;
     }
 
     .winemap {
-        margin-top: 441px;
+        margin-top: 371px;
     }
 
     .grape {
-        left: 186px;
-        top: 2631px;
+        left: 65px;
+        top: 2550px;
     }
 
     .barrel {
-        left: 1114px;
-        top: 2627px;
+        left: 1026px;
+        top: 2554px;
     }
 }
 
